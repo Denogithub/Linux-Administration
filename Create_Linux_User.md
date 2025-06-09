@@ -1,5 +1,10 @@
 # Create a new Linux user and assign password # 
 # Verify the user have been created #
+# Creating a user with a custom home directory #
+# Creating a user and assigning it to specific groups # 
+# Creating a user with an expiration date #
+# Creating a user with a specific shell #
+
 
 ![Screenshot_0](https://github.com/user-attachments/assets/7a776730-328a-4c09-a58a-3a9fa5210d74)
 
