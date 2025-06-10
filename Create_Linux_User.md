@@ -2,6 +2,7 @@
 # Verify the user have been created #
 # Creating a user with a custom home directory #
 # Creating a user and assigning it to specific groups # 
+# Create multiple users account and assign password to all ones.
 # Creating a user with an expiration date #
 # Creating a user with a specific shell #
 
