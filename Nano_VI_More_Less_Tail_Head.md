@@ -1,6 +1,6 @@
 ## Nano and VI are editors which can be use to create a file, edit configuration files etc ##
-## This editors are worth knowing and knowing well. I|t will help make your work lighter ##
-## THe More, Less, Tail and Head command are use to view the content of a file and arrange the files properly. ##
+## This editors are worth knowing and knowing well. It will help make your work lighter ##
+## The more, less, tail and head commands are use to view the content of a file and more readable ##
 ## See examples below ##
 <img width="1914" height="727" alt="nano vi_cmd_01" src="https://github.com/user-attachments/assets/11bc7f2a-fac8-47be-83e5-0e670035121f" />
 <img width="1915" height="967" alt="nano vi_cmd_02" src="https://github.com/user-attachments/assets/8acd5f94-be97-4174-a7bb-02faeaf2abb4" />
