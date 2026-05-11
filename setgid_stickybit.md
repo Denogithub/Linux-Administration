@@ -1,4 +1,3 @@
-<img width="436" height="280" alt="setgid stickybits_10" src="https://github.com/user-attachments/assets/52b5235f-c72f-4c5f-bd08-af2257fb944c" />
 ## In Linux, setgid (short for "Set Group ID") is a special type of file permission that allows a file or directory to behave differently than usual. Its meaning changes depending on whether you apply it to a file or a directory. ##
 ## When you set setgid on an executable file, any user who runs that file will temporarily gain the group privileges of the file's group owner. ##
 
