@@ -1,0 +1,1 @@
+## In Linux, setuid (Set User ID) is a special file permission that allows a user to execute a program with the privileges of the file's owner rather than the user who is currently running it. It is most commonly used to grant regular users temporary access to elevated privileges (like root) for specific tasks. ##
