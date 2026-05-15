@@ -23,6 +23,7 @@
 
 <img width="436" height="280" alt="setgid stickybits_11" src="https://github.com/user-attachments/assets/3363d1cf-a41c-469e-9c26-58d6a2d20db8" />
 
+<img width="463" height="278" alt="setgid stickybits_12" src="https://github.com/user-attachments/assets/c1d4425c-de4a-4b5e-b512-9565f4815b48" />
 
 
 
