@@ -1,0 +1,1 @@
+## Standard output, commonly abbreviated as stdout, is the default stream where a Linux program sends its non-error data and results. In most interactive environments, stdout is directed to the terminal screen. ##
