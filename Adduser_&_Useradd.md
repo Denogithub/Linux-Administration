@@ -1,3 +1,4 @@
+<img width="766" height="433" alt="useradd_07" src="https://github.com/user-attachments/assets/33fcf16b-84cc-438b-a198-13e1e084e840" />
 ## In Linux, the adduser command is a high-level, interactive script used to create new user accounts. It is generally considered more user-friendly than the lower-level useradd command because it automatically handles tasks like creating a home directory and setting up a password. ##
 ## The useradd command is a low-level utility used to create new user accounts on Linux and other Unix-like operating systems. It is non-interactive, making it ideal for automation and scripting. ##
 
@@ -8,5 +9,12 @@
 <img width="506" height="241" alt="useradd_04" src="https://github.com/user-attachments/assets/ecd8de22-1681-4efd-b92e-1304b50bce8a" />
 <img width="725" height="433" alt="useradd_05" src="https://github.com/user-attachments/assets/9e171d37-0cf7-4803-998f-7bb3fb1e2067" />
 <img width="599" height="419" alt="useradd_06" src="https://github.com/user-attachments/assets/3d26773a-94ae-4d1d-a168-2dd98dff6ede" />
+
+<img width="766" height="433" alt="useradd_07" src="https://github.com/user-attachments/assets/33fcf16b-84cc-438b-a198-13e1e084e840" />
+
+<img width="524" height="438" alt="useradd_09" src="https://github.com/user-attachments/assets/9acb3cd4-f8c5-4621-92e6-796bdef9d80a" />
+<img width="599" height="434" alt="useradd_08" src="https://github.com/user-attachments/assets/5d89d4a7-5c2c-4fdc-a3af-1072939b422c" />
+
+
 
 
