@@ -1,0 +1,2 @@
+## In Linux, the adduser command is a high-level, interactive script used to create new user accounts. It is generally considered more user-friendly than the lower-level useradd command because it automatically handles tasks like creating a home directory and setting up a password. ##
+## The useradd command is a low-level utility used to create new user accounts on Linux and other Unix-like operating systems. It is non-interactive, making it ideal for automation and scripting. ##
