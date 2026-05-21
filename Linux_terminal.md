@@ -1,0 +1,1 @@
+## The Linux terminal is a text-based interface, or command-line interface (CLI), used to interact directly with the operating system by typing commands rather than using a graphical user interface (GUI). It acts as a shell (typically Bash or Zsh) that interprets commands to manage files, run programs, and administrate the system efficiently. ##
