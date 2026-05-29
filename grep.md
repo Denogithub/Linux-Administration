@@ -1,0 +1,1 @@
+## In Linux, grep (Global Regular Expression Print) is a command-line utility used to search for specific text patterns within files or input streams. It is one of the most fundamental tools for developers and system administrators to filter logs, find code snippets, or parse large amounts of data. ##
