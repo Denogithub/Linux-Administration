@@ -1,0 +1,1 @@
+## In Linux, regular expressions (regex) are pattern-matching strings used by command-line tools to search, filter, and manipulate text. They are supported by core utilities like grep, sed, and awk. ##
