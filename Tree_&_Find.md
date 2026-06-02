@@ -1,0 +1,1 @@
+## In Linux, tree and find are powerful command-line utilities used to navigate and discover items in your file system, but they serve entirely different purposes. Use tree to visualize the layout of your folders, and use find when you need to search for specific items based on filters like names, sizes, or permissions.  #
