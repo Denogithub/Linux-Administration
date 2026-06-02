@@ -9,6 +9,13 @@
 <img width="519" height="275" alt="Tree_ _Find_04" src="https://github.com/user-attachments/assets/59aa50ab-c4ae-406d-8ee3-6df02391ff61" />
 <img width="494" height="212" alt="Tree_ _Find_05" src="https://github.com/user-attachments/assets/8a794cdb-bc57-43f1-8333-687c55c67a6a" />
 <img width="460" height="389" alt="Tree_ _Find_06" src="https://github.com/user-attachments/assets/6b1e57e9-8e75-40fd-8b5d-b4c0c3c640a4" />
+<img width="380" height="379" alt="Tree_ _Find_07" src="https://github.com/user-attachments/assets/cab4f7ab-2d83-4016-8a41-82b6c287cc52" />
+<img width="431" height="371" alt="Tree_ _Find_08" src="https://github.com/user-attachments/assets/93faba71-0709-4e73-93da-cb3dbdbe3027" />
+<img width="505" height="386" alt="Tree_ _Find_09" src="https://github.com/user-attachments/assets/de41d004-2ff1-4be3-988c-7b14ffd495b6" />
+<img width="469" height="376" alt="Tree_ _Find_10" src="https://github.com/user-attachments/assets/7d4b3aca-374a-4d49-8595-562e51f300d1" />
+
+
+
 
 
 
