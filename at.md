@@ -1,0 +1,1 @@
+## The at command in Linux is a command-line utility used to schedule one-time tasks to execute automatically at a specific time in the future. Unlike cron, which handles repetitive or recurring schedules, at runs its assigned job exactly once and then removes it from the queue. ##
