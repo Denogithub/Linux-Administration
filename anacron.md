@@ -1,0 +1,2 @@
+## The anacron command in Linux is a task scheduler designed for systems that do not run continuously, such as laptops and desktops. Unlike standard cron (which assumes a 24/7 server uptime and misses tasks if the computer is turned off), anacron tracks whether a periodic job was missed while the system was powered down and executes it as soon as the system turns back on. ##
+## Because anacron operates using days as its lowest unit of frequency, it does not support precise minute-level scheduling. ##
