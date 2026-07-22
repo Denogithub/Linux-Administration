@@ -1,0 +1,1 @@
+## The cron command (and its management tool crontab) is a built-in Linux utility used to schedule and automate repetitive tasks to run automatically in the background at specific times, dates, or intervals. ##
