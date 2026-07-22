@@ -10,6 +10,25 @@
 <img width="493" height="403" alt="cron_08" src="https://github.com/user-attachments/assets/d9c61015-6252-4fda-91e1-43142e56e890" />
 <img width="473" height="167" alt="cron_09" src="https://github.com/user-attachments/assets/e5190486-87f6-42f0-9c80-efbb84104aa4" />
 <img width="470" height="317" alt="cron_10" src="https://github.com/user-attachments/assets/08407cb0-a191-4109-baf5-2305fad2f65a" />
+<img width="483" height="323" alt="cron_11" src="https://github.com/user-attachments/assets/eb2bff34-b424-466a-a7c4-10143f6b4ab0" />
+<img width="647" height="326" alt="cron_12" src="https://github.com/user-attachments/assets/283af317-f09f-4255-8bd2-de5249917359" />
+<img width="647" height="328" alt="cron_13" src="https://github.com/user-attachments/assets/719f3310-658c-402d-a32c-62f4a6dc71f6" />
+<img width="619" height="406" alt="cron_14" src="https://github.com/user-attachments/assets/42d8405c-97b6-4d30-9c45-0adb440c91fd" />
+<img width="568" height="95" alt="cron_15" src="https://github.com/user-attachments/assets/c6e4b04a-50f1-440c-bd65-f29df109a32d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
