@@ -20,8 +20,15 @@
 <img width="622" height="266" alt="cron_18" src="https://github.com/user-attachments/assets/63e3a7f7-0847-4dde-b4fc-697c7d049497" />
 <img width="443" height="185" alt="cron_19" src="https://github.com/user-attachments/assets/0b2a40b2-4b5a-41d3-883b-f764cd92e601" />
 <img width="606" height="288" alt="cron_20" src="https://github.com/user-attachments/assets/d65a1da9-7b4d-467d-8bf0-d8c61e7c0908" />
-
-
+<img width="467" height="224" alt="cron_21" src="https://github.com/user-attachments/assets/65998970-0ea4-4b8b-ace7-7e0d80f14da6" />
+<img width="431" height="113" alt="cron_22" src="https://github.com/user-attachments/assets/c8d8519a-8913-4699-a00d-cf1012017e86" />
+<img width="469" height="309" alt="cron_23" src="https://github.com/user-attachments/assets/2e903395-22cd-4851-b854-f69e147f593a" />
+<img width="450" height="179" alt="cron_24" src="https://github.com/user-attachments/assets/0542b4af-9004-4dad-9723-e29579ed5e3a" />
+<img width="475" height="309" alt="cron_25" src="https://github.com/user-attachments/assets/be3c5c30-2c50-4f66-844e-1fd2791f28dc" />
+<img width="475" height="309" alt="cron_26" src="https://github.com/user-attachments/assets/b46cf233-a977-4bdc-b49b-f31cf8e48e2c" />
+<img width="478" height="245" alt="cron_27" src="https://github.com/user-attachments/assets/36c2cef0-0766-4125-abd0-f4cf3adfe47c" />
+<img width="473" height="320" alt="cron_28" src="https://github.com/user-attachments/assets/25ccee94-137d-4fa2-a5cd-7b6b9e323855" />
+<img width="483" height="324" alt="cron_29" src="https://github.com/user-attachments/assets/bf3e41d2-c493-4e8d-b08a-84d95327e8e1" />
 
 
 
