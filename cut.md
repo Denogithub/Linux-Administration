@@ -1,0 +1,1 @@
+## The cut command in Linux is a command-line utility used to extract specific sections, columns, or fields from each line of a file or piped standard input and print the results to standard output. It is primarily used for text processing, data filtering, and slicing structured data like CSVs or log files. ##
