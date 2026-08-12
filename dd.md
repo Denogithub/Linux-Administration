@@ -1,0 +1,1 @@
+## dd command in Linux is a powerful command-line utility used to convert and copy files at a low, block-level layer. It is most frequently used for backing up entire drives, creating bootable USB media, cloning disk partitions, and wiping storage devices. ##
