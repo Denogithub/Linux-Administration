@@ -1,0 +1,1 @@
+##  are dynamic, named key-value pairs stored by the system to influence how the shell and running applications behave. They control everything from where programs look for executable files to the default text editor or system locale. ##
