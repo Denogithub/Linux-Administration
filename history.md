@@ -1,0 +1,2 @@
+## The history command in Linux is a built-in shell utility that displays a list of previously executed commands. It acts like a timeline for your terminal, allowing you to view, search, modify, and re-run past commands instead of retyping them. ##
+## By default, the terminal caches your current session's commands in memory and appends them to a hidden file in your home directory (usually ~/.bash_history or ~/.zsh_history) when you close the session. ##
