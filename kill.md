@@ -1,0 +1,1 @@
+## The kill command in Linux is a built-in utility used to send specific signals to running processes, most commonly to terminate them. Despite its aggressive name, it acts as a messaging system to control process behavior based on a unique Process ID (PID). ##
