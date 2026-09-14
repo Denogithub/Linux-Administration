@@ -1,0 +1,1 @@
+## In Linux, LUKS (Linux Unified Key Setup) is managed entirely through the CLI using the cryptsetup utility. This tool handles everything from formatting a new encrypted partition to unlocking and mounting it. ##
