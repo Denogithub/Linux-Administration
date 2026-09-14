@@ -15,6 +15,13 @@
 <img width="641" height="401" alt="luks_cli_13" src="https://github.com/user-attachments/assets/d690f9eb-baed-4e71-a833-852d1245c940" />
 <img width="643" height="401" alt="luks_cli_14" src="https://github.com/user-attachments/assets/3b9d5835-2a52-4aff-8393-fd0b608a67dd" />
 <img width="640" height="402" alt="luks_cli_15" src="https://github.com/user-attachments/assets/a7f01c89-f58f-4ed7-97bd-4822aa10f06a" />
+<img width="641" height="258" alt="luks_cli_16" src="https://github.com/user-attachments/assets/9c2c8468-2b1f-4f53-b2cc-2d9429dbfa66" />
+<img width="641" height="402" alt="luks_cli_17" src="https://github.com/user-attachments/assets/4c9abbaa-ef0b-4399-b451-944cf67fdada" />
+<img width="640" height="404" alt="luks_cli_18" src="https://github.com/user-attachments/assets/fede4c1a-2c3f-4647-b57a-a9e49e636c01" />
+<img width="643" height="406" alt="luks_cli_19" src="https://github.com/user-attachments/assets/512b63fc-9794-49b3-bf75-9068491d6c72" />
+<img width="644" height="407" alt="luks_cli_20" src="https://github.com/user-attachments/assets/c963c55d-52ab-406a-b852-488c521abccc" />
+<img width="499" height="170" alt="luks_cli_21" src="https://github.com/user-attachments/assets/2230361c-77ea-431b-bd46-2da565d084a7" />
+
 
 
 
