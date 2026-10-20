@@ -14,6 +14,11 @@
 <img width="640" height="398" alt="luks_12" src="https://github.com/user-attachments/assets/5833b1e3-cea9-4d08-86f6-905a7f74850d" />
 <img width="650" height="403" alt="luks_13" src="https://github.com/user-attachments/assets/3348ddde-5513-4e0c-9604-1adbb79e4c6c" />
 <img width="641" height="402" alt="luks_14" src="https://github.com/user-attachments/assets/7aad220e-42d9-4f2c-8671-87f980bbbd06" />
+<img width="644" height="404" alt="luks_15" src="https://github.com/user-attachments/assets/add408f0-2e30-421e-87ce-8a99bd06046b" />
+<img width="646" height="407" alt="luks_16" src="https://github.com/user-attachments/assets/5c8bde46-dc85-4ac5-ba18-860cf3a09384" />
+<img width="644" height="403" alt="luks_17" src="https://github.com/user-attachments/assets/e36b40e1-07a8-44dd-9c62-61d9b021df7f" />
+
+
 
 
 
