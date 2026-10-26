@@ -1,1 +1,1 @@
-## In Linux, securing the bootloader using LUKS (Linux Unified Key Setup) and UEFI Secure Boot creates a chain of trust that prevents tampering with the operating system kernel and underlying disk data.##
+## In Linux, securing the bootloader using LUKS (Linux Unified Key Setup) and UEFI Secure Boot creates a chain of trust that prevents tampering with the operating system kernel and underlying disk data. ##
