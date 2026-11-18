@@ -12,9 +12,8 @@
 <img width="644" height="260" alt="LuksSecure_bootloader_09" src="https://github.com/user-attachments/assets/8967a664-56da-4ae6-ae10-14e7681eb27a" />
 <img width="562" height="329" alt="LuksSecure_bootloader_10" src="https://github.com/user-attachments/assets/b731fc6f-eabd-4e60-9148-34eb3065edaf" />
 <img width="484" height="266" alt="LuksSecure_bootloader_11" src="https://github.com/user-attachments/assets/62752a5d-a861-4cc0-a798-6d06e42203f2" />
-
-
-
-
-
-
+<img width="422" height="230" alt="LuksSecure_bootloader_12" src="https://github.com/user-attachments/assets/d27171f7-bae6-4fbc-9d2f-fa4fc7fda2e7" />
+<img width="643" height="403" alt="LuksSecure_bootloader_13" src="https://github.com/user-attachments/assets/d6eea738-bf76-4c8f-89f9-03b3698697ce" />
+<img width="647" height="404" alt="LuksSecure_bootloader_14" src="https://github.com/user-attachments/assets/0835552d-4dbc-4fe0-9333-a47562a21ead" />
+<img width="645" height="405" alt="LuksSecure_bootloader_15" src="https://github.com/user-attachments/assets/079b5693-7e4c-447f-b3cd-6398225e4731" />
+<img width="647" height="405" alt="LuksSecure_bootloader_16" src="https://github.com/user-attachments/assets/15000b75-4c67-4a01-ac82-37bdb79ccfd9" />
